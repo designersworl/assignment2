@@ -1,0 +1,18 @@
+.navbar-nav .nav-link{
+  text-align:center;
+}
+
+.menu{
+  margin:3em;
+}
+
+.menu-item{
+  margin-bottom:3em;
+  padding:0 2em;
+  line-height:2em;
+  font-size:1.2em;
+}
+
+.container{
+  margin:0 auto;
+}
